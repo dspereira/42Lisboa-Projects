@@ -26,3 +26,14 @@ The Core covers the fundamentals of programming and computer systems while in th
 - Security
 - Game Development
 - etc...
+
+## About me
+
+I'm an electrical engineer with a strong interest in software development and technology in general. I'm currently a student at 42 Lisboa, deepening my knowledge in these fields.
+I am currently dedicated to expanding my knowledge of web development. My favorite programming language is JavaScript, and I have a particular interest in utilizing node.js for full-stack web development projects.
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/dsilveri?1337Badge=off&UM6P=off" alt="dsilveri's 42 stats" /></a>
+
+## Contact
+
+If you have any questions or comments about this project, please feel free to contact me at diogo.s.pereira@outlook.pt.
