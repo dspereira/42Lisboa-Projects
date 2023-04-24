@@ -40,8 +40,9 @@ If you have any questions or comments about this project, please feel free to co
 
 ## Projects
 
-| Project Name | Tecnologys and Skils |
-| --- | --- |
-| [Libft](https://github.com/dspereira/42Cursus-Libft) | C, Data Structures and algorithms |
+| Project Name | Technologies and Skills | Subjects | Grade |
+| --- | --- | --- | --- |
+| [Libft](https://github.com/dspereira/42Cursus-Libft) | C, Data Structures and Algorithms | subject | 125% |
+| [ft_printf](https://github.com/dspereira/42Cursus-Printf) | C, Algorithms | subject | 125% |
 
 
