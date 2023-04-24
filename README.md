@@ -37,3 +37,11 @@ I am currently dedicated to expanding my knowledge of web development. My favori
 ## Contact
 
 If you have any questions or comments about this project, please feel free to contact me at diogo.s.pereira@outlook.pt.
+
+## Projects
+
+| Project Name | Tecnologys and Skils |
+| --- | --- |
+| [Libft](https://github.com/dspereira/42Cursus-Libft) | C, Data Structures and algorithms |
+
+
