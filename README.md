@@ -8,8 +8,8 @@ Due to our methodology of self-learning and learning with our peers, we develop 
 
 ### 42Lisboa curriculum
 
-"42's curriculum is divided into two parts: the Core and Specialization. 
-The Core covers the fundamentals of programming and computer systems while in the Specialization, students can choose to explore and deepen their knowledge in one or more paths of computer engineering."
+42's curriculum is divided into two parts: the Core and Specialization. 
+The Core covers the fundamentals of programming and computer systems while in the Specialization, students can choose to explore and deepen their knowledge in one or more paths of computer engineering.
 
 ### The core:
 - Unix and Linux
