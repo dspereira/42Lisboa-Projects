@@ -3,13 +3,11 @@
 </h1>
 
 <h3 align="center">
-	<a href="About-42Lisboa">About 42</a>
+	<a href="">About-42Lisboa</a>
 	<span> · </span>
-	<a href="About-me">Skills developed at 42cursus</a>
+	<a href="">About me</a>
 	<span> · </span>
-	<a href="Holly Graph">42's galaxy (curriculum)</a>
-	<span> · </span>
-	<a href="Project-Table">42's galaxy (curriculum)</a>
+	<a href="">Projects</a>
 </h3>
 
 ## About 42Lisboa
