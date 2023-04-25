@@ -1,4 +1,16 @@
-# 42Lisboa-Projects
+<h1 align="center">
+  42Lisboa-Projects
+</h1>
+
+<h3 align="center">
+	<a href="About-42Lisboa">About 42</a>
+	<span> · </span>
+	<a href="About-me">Skills developed at 42cursus</a>
+	<span> · </span>
+	<a href="Holly Graph">42's galaxy (curriculum)</a>
+	<span> · </span>
+	<a href="Project-Table">42's galaxy (curriculum)</a>
+</h3>
 
 ## About 42Lisboa
 
