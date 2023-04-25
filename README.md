@@ -1,7 +1,7 @@
 
  # 42Lisboa-Projects
 
-## Table of content
+## Table of Content
 1. [ About 42Lisboa ](#about-42lisboa)
 2. [ About me ](#about-me)
 3. [ Projects ](#projects)
@@ -13,12 +13,12 @@ The 42 Lisboa is an innovative school where its unique approach involves project
 
 Due to our methodology of self-learning and learning with our peers, we develop various soft skills such as resilience, teamwork, leadership, teaching, and open-mindedness to new ideas, which are essential for anyone in the technology field.
 
-### 42Lisboa curriculum
+### 42Lisboa Curriculum
 
 42's curriculum is divided into two parts: the Core and Specialization. 
 The Core covers the fundamentals of programming and computer systems while in the Specialization, students can choose to explore and deepen their knowledge in one or more paths of computer engineering.
 
-### The core:
+### The Core:
 - Unix
 - Shell Scripting
 - C and C++
@@ -34,7 +34,7 @@ The Core covers the fundamentals of programming and computer systems while in th
 - Game Development
 - etc...
 
-## About me
+## About Me
 
 I'm an electrical engineer with a passion for software development and technology in general. I'm currently a student at 42 Lisboa, deepening my knowledge in computer engineering.
 I have a keen interest in pursuing a career in web development, specifically working with Javascript and node.js. Therefore, I am currently focused on enhancing my skills and knowledge in this particular field.
