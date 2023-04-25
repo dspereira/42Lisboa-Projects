@@ -12,7 +12,7 @@ Due to our methodology of self-learning and learning with our peers, we develop 
 The Core covers the fundamentals of programming and computer systems while in the Specialization, students can choose to explore and deepen their knowledge in one or more paths of computer engineering.
 
 ### The core:
-- Unix and Linux
+- Unix
 - Shell Scripting
 - C and C++
 - Algorithms and Data Structures
@@ -40,10 +40,26 @@ If you have any questions or comments about this project, please feel free to co
 
 ## Projects
 
-| Project Name | Technologies and Skills | Subjects | Grade |
+| Project Name | Technologies and Skills | Subject | Grade |
 | --- | --- | --- | --- |
 | [Libft](https://github.com/dspereira/42Cursus-Libft) | C, Data Structures and Algorithms | subject | 125% |
-| [ft_printf](https://github.com/dspereira/42Cursus-Printf) | C, Algorithms | subject | 100% |
-| [get_next_line](https://github.com/dspereira/42Cursus-GetNextLine) | C, Algorithms | subject | 125% |
+| [ft_printf](https://github.com/dspereira/42Cursus-Printf) | C, Algorithms, Variadic Functions | subject | 100% |
+| [get_next_line](https://github.com/dspereira/42Cursus-GetNextLine) | C, Algorithms, Files | subject | 125% |
+| Born2beroot | System Administration | subject | 100% |
+| [push_swap](https://github.com/dspereira/42Cursus-Push-Swap) | C, Data Structures and Algorithms | subject | 125% |
+| [pipex](https://github.com/dspereira/42Cursus-Pipex) | C, Shell, UNIX Operating Systems | subject | 115% |
+| [so_long](https://github.com/dspereira/42Cursus-SoLong) | C, 2D Graphics, Games | subject | 125% |
+| [Philosophers](https://github.com/dspereira/42Cursus-Philosophers) | C, Threads and Mutexes | subject | 100% |
+| [minishell](https://github.com/dspereira/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | subject | 95% |
+| [CPP_Module_04](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | subject | 92% |
+| NetPractice | IP routing, System Administration | subject | 100% |
+| [cub3d](https://github.com/dspereira/42Cursus-Cube3D) | C, Ray Casting, 3D Graphics, Texturing, Games | subject | 125% |
+| [CPP_Module_09](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | subject | 100% |
+
+
+
+
+
+
 
 
