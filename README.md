@@ -34,10 +34,6 @@ I have a keen interest in pursuing a career in web development, specifically wor
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/dsilveri?1337Badge=off&UM6P=off" alt="dsilveri's 42 stats" /></a>
 
-## Contact
-
-If you have any questions or comments about this project, please feel free to contact me at diogo.s.pereira@outlook.pt.
-
 ## Projects
 
 ### Holly Graph
@@ -63,3 +59,7 @@ The holy graph is a graphical representation that displays both completed and av
 | NetPractice | IP routing, System Administration | subject | 100% |
 | [cub3d](https://github.com/dspereira/42Cursus-Cube3D) | C, Ray Casting, 3D Graphics, Texturing, Games | subject | 125% |
 | [CPP_Module_09](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | subject | 100% |
+
+## Contact
+
+If you have any questions or comments about this project, please feel free to contact me at diogo.s.pereira@outlook.pt.
