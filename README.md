@@ -47,7 +47,7 @@ I have a keen interest in pursuing a career in web development, specifically wor
 
 The holy graph is a graphical representation that displays both completed and available projects, making it easier to visualize and select projects.
 
-![holly_graph](https://github.com/dspereira/42Lisboa-Projects/blob/main/imgs/holly_graph1.png)
+![holly_graph](https://github.com/dspereira/42Lisboa-Projects/blob/main/imgs/holly_graph.png)
 
 ### Project Table
 
