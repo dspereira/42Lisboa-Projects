@@ -1,14 +1,11 @@
-<h1 align="center">
-  42Lisboa-Projects
-</h1>
 
-<h3 align="center">
-	<a href="">About-42Lisboa</a>
-	<span> · </span>
-	<a href="">About me</a>
-	<span> · </span>
-	<a href="">Projects</a>
-</h3>
+ # 42Lisboa-Projects
+
+## Table of content
+1. [ About 42Lisboa ](#about-42lisboa)
+2. [ About me ](#about-me)
+3. [ Projects ](#projects)
+4. [ Contact ](#contact)
 
 ## About 42Lisboa
 
