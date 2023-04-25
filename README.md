@@ -40,6 +40,14 @@ If you have any questions or comments about this project, please feel free to co
 
 ## Projects
 
+### Holly Graph
+
+The holy graph is a graphical representation that displays both completed and available projects, making it easier to visualize and select projects.
+
+![holly_graph](https://github.com/dspereira/42Lisboa-Projects/blob/main/imgs/holly_graph1.png)
+
+### Project Table
+
 | Project Name | Technologies and Skills | Subject | Grade |
 | --- | --- | --- | --- |
 | [Libft](https://github.com/dspereira/42Cursus-Libft) | C, Data Structures and Algorithms | subject | 125% |
@@ -55,11 +63,3 @@ If you have any questions or comments about this project, please feel free to co
 | NetPractice | IP routing, System Administration | subject | 100% |
 | [cub3d](https://github.com/dspereira/42Cursus-Cube3D) | C, Ray Casting, 3D Graphics, Texturing, Games | subject | 125% |
 | [CPP_Module_09](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | subject | 100% |
-
-
-
-
-
-
-
-
