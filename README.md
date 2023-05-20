@@ -61,7 +61,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [pipex](https://github.com/dspereira/42Cursus-Pipex) | C, Shell, UNIX Operating Systems | subject | 115% |
 | [so_long](https://github.com/dspereira/42Cursus-SoLong) | C, 2D Graphics, Games | subject | 125% |
 | [Philosophers](https://github.com/dspereira/42Cursus-Philosophers) | C, Threads and Mutexes | subject | 100% |
-| [minishell](https://github.com/dspereira/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | subject | 95% |
+| [minishell](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | subject | 95% |
 | [CPP_Module_04](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | subject | 92% |
 | NetPractice | IP routing, System Administration | subject | 100% |
 | [cub3d](https://github.com/dspereira/42Cursus-Cube3D) | C, Ray Casting, 3D Graphics, Texturing, Games | subject | 125% |
