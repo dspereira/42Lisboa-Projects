@@ -54,7 +54,7 @@ The holy graph is a graphical representation that displays both completed and av
 | Project Name | Technologies and Skills | Subject | Grade |
 | --- | --- | --- | --- |
 | [Libft](https://github.com/dspereira/42Cursus-Libft) | C, Data Structures and Algorithms | subject | 125% |
-| [ft_printf](https://github.com/dspereira/42Cursus-Printf) | C, Algorithms, Variadic Functions | subject | 100% |
+| [ft_printf](https://github.com/dspereira/42Cursus-Printf) | C, Algorithms, Variadic Functions | [subject](https://github.com/dspereira/42Cursus-Printf/blob/main/en.subject.pdf) | 100% |
 | [get_next_line](https://github.com/dspereira/42Cursus-GetNextLine) | C, Algorithms, Files | [subject](https://github.com/dspereira/42Cursus-GetNextLine/blob/main/en.subject.pdf) | 125% |
 | Born2beroot | System Administration | subject | 100% |
 | [push_swap](https://github.com/dspereira/42Cursus-Push-Swap) | C, Data Structures and Algorithms | subject | 125% |
