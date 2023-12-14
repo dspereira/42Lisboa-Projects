@@ -60,7 +60,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [push_swap](https://github.com/dspereira/42Cursus-Push-Swap) | C, Data Structures and Algorithms | subject | 125% |
 | [pipex](https://github.com/dspereira/42Cursus-Pipex) | C, Shell, UNIX Operating Systems | [subject](https://github.com/dspereira/42Cursus-Pipex/blob/main/en.subject.pdf) | 115% |
 | [so_long](https://github.com/dspereira/42Cursus-SoLong) | C, 2D Graphics, Games | subject | 125% |
-| [Philosophers](https://github.com/dspereira/42Cursus-Philosophers) | C, Threads and Mutexes | subject | 100% |
+| [Philosophers](https://github.com/dspereira/42Cursus-Philosophers) | C, Threads and Mutexes | [subject](https://github.com/dspereira/42Cursus-Philosophers/blob/main/en.subject.pdf) | 100% |
 | [minishell](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | subject | 95% |
 | [CPP_Module_04](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | subject | 92% |
 | NetPractice | IP routing, System Administration | subject | 100% |
