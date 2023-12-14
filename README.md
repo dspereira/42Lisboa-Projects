@@ -25,6 +25,7 @@ The Core covers the fundamentals of programming and computer systems while in th
 - Algorithms and Data Structures
 - Object-Oriented Programming
 - Graphic Programming
+- Containers Docker
 - Web Applications (HTML, CSS, JavaScript, Python, SQL)
 
 ### The Specialization:
