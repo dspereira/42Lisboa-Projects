@@ -2,10 +2,10 @@
  # 42Lisboa-Projects
 
 ## Table of Content
-1. [ About 42Lisboa ](#about-42lisboa)
-2. [ About me ](#about-me)
-3. [ Projects ](#projects)
-4. [ Contact ](#contact)
+* [ About 42Lisboa ](#about-42lisboa)
+* [ About me ](#about-me)
+* [ Projects ](#projects)
+* [ Contact ](#contact)
 
 ## About 42Lisboa
 
