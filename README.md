@@ -68,7 +68,7 @@ The holy graph is a graphical representation that displays both completed and av
 | NetPractice | IP routing, System Administration | subject | 100% |
 | [cub3d](https://github.com/dspereira/42Cursus-Cube3D) | C, Ray Casting, 3D Graphics, Texturing, Games | subject | 125% |
 | [Webserv](https://github.com/dspereira/42Cursus-webserv) | C++, HTTP, CGI, Web | subject | 110% |
-| [Inception](https://github.com/dspereira/42Cursus-Inception) | System Administration, Docker Compose, Nginx, Wordpress, MariaDB | subject | 100% | 
+| [Inception](https://github.com/dspereira/42Cursus-Inception) | System Administration, Docker Compose, Nginx, Wordpress, MariaDB | [subject](https://github.com/dspereira/42Cursus-Inception/blob/main/docs/inception_subject.pdf) | 100% | 
 | ft_transcendence | Web Development, HTML, CSS, JavaScript, Python, SQL | subject | In Progress |
 
 ## Contact
