@@ -65,7 +65,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [Philosophers](https://github.com/dspereira/42Cursus-Philosophers) | C, Threads and Mutexes | [subject](https://github.com/dspereira/42Cursus-Philosophers/blob/main/en.subject.pdf) | 100% |
 | [minishell](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | subject | 95% |
 | [CPP_Modules](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | [subject](https://github.com/dspereira/42Cursus-cpp-modules/blob/main/module_00/en.subject.pdf) | 100% |
-| NetPractice | IP routing, System Administration | subject | 100% |
+| NetPractice | IP routing, System Administration | [subject](https://github.com/dspereira/42Lisboa-Projects/blob/main/netpractice-subject.pdf) | 100% |
 | [cub3d](https://github.com/dspereira/42Cursus-Cube3D) | C, Ray Casting, 3D Graphics, Texturing, Games | [subject](https://github.com/dspereira/42Cursus-Cube3D/blob/main/en.subject.pdf) | 125% |
 | [Webserv](https://github.com/dspereira/42Cursus-webserv) | C++, HTTP, CGI, Web | subject | 110% |
 | [Inception](https://github.com/dspereira/42Cursus-Inception) | System Administration, Docker Compose, Nginx, Wordpress, MariaDB | [subject](https://github.com/dspereira/42Cursus-Inception/blob/main/docs/inception_subject.pdf) | 100% | 
