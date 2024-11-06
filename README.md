@@ -63,7 +63,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [pipex](https://github.com/dspereira/42Cursus-Pipex) | C, Shell, UNIX Operating Systems | [subject](https://github.com/dspereira/42Cursus-Pipex/blob/main/en.subject.pdf) | 115% |
 | [so_long](https://github.com/dspereira/42Cursus-SoLong) | C, 2D Graphics, Games | [subject](https://github.com/dspereira/42Cursus-SoLong/blob/main/en.subject.pdf) | 125% |
 | [Philosophers](https://github.com/dspereira/42Cursus-Philosophers) | C, Threads and Mutexes | [subject](https://github.com/dspereira/42Cursus-Philosophers/blob/main/en.subject.pdf) | 100% |
-| [minishell](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | subject | 95% |
+| [minishell](https://github.com/dspereira/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | [subject](https://github.com/dspereira/42Cursus_Mini_Shell/blob/main/en.subject.pdf) | 95% |
 | [CPP_Modules](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | [subject](https://github.com/dspereira/42Cursus-cpp-modules/blob/main/module_00/en.subject.pdf) | 100% |
 | NetPractice | IP routing, System Administration | [subject](https://github.com/dspereira/42Lisboa-Projects/blob/main/netpractice-subject.pdf) | 100% |
 | [cub3d](https://github.com/dspereira/42Cursus-Cub3D) | C, Ray Casting, 3D Graphics, Texturing, Games | [subject](https://github.com/dspereira/42Cursus-Cube3D/blob/main/en.subject.pdf) | 125% |
