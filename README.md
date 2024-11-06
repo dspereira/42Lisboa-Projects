@@ -54,7 +54,7 @@ The Core covers the fundamentals of programming and computer systems while in th
 ### Holy Graph
 The holy graph is a graphical representation that displays both completed and available projects, making it easier to visualize and select projects.
 
-![holly_graph](https://github.com/dspereira/42Lisboa-Projects/blob/main/holly_graph.png)
+<img src="https://github.com/dspereira/42Lisboa-Projects/blob/main/holly_graph.png" alt="holy graph" width="600"/>
 
 ### Project Table
 
