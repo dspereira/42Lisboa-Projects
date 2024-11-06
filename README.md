@@ -2,13 +2,24 @@
  # 42Lisboa-Projects
 
 ## Table of Content
-* [ About 42Lisboa ](#about-42lisboa)
 * [ About me ](#about-me)
+* [ About 42Lisboa ](#about-42lisboa)
+  * [42Lisboa Curriculum](#42lisboa-curriculum)
+    * [The Core](#the-core)
+    * [The Specialization](#the-specialization)
 * [ Projects ](#projects)
 * [ Contact ](#contact)
 
-## About 42Lisboa
+## About Me
+I'm an electrical engineer with a passion for software development and technology. Currently, I'm a student at 42 Lisboa, where I'm deepening my knowledge in computer engineering.
+I'm especially interested in building a career in web development, focusing on JavaScript. To this end, I'm dedicated to enhancing my skills and expertise in this field.
 
+My technical skills include proficiency in C/C++, JavaScript, and SQL, which I’ve developed through my projects at 42 Lisboa and previous experience. Additionally, I have working knowledge of other tools and technologies, such as Python, Java, and Docker, although at a less advanced level.
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/dsilveri?1337Badge=off&UM6P=off" alt="dsilveri's 42 stats" /></a>
+
+
+## About 42Lisboa
 The [42Lisboa](https://www.42lisboa.com/) is an innovative school where its unique approach involves project-based learning, peer-to-peer reviews, and knowledge sharing among students, fostering an innovative and collaborative environment.
 
 Due to our methodology of self-learning and learning with our peers, we develop various soft skills such as resilience, teamwork, leadership, teaching, and open-mindedness to new ideas, which are essential for anyone in the technology field.
@@ -35,15 +46,6 @@ The Core covers the fundamentals of programming and computer systems while in th
 - Security
 - Game Development
 - etc...
-
-## About Me
-
-I'm an electrical engineer with a passion for software development and technology. Currently, I'm a student at 42 Lisboa, where I'm deepening my knowledge in computer engineering.
-I'm especially interested in building a career in web development, focusing on JavaScript. To this end, I'm dedicated to enhancing my skills and expertise in this field.
-
-My technical skills include proficiency in C/C++, JavaScript, and SQL, which I’ve developed through my projects at 42 Lisboa and previous experience. Additionally, I have working knowledge of other tools and technologies, such as Python, Java, and Docker, although at a less advanced level.
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/dsilveri?1337Badge=off&UM6P=off" alt="dsilveri's 42 stats" /></a>
 
 ## Projects
 
