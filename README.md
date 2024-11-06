@@ -69,7 +69,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [cub3d](https://github.com/dspereira/42Cursus-Cub3D) | C, Ray Casting, 3D Graphics, Texturing, Games | [subject](https://github.com/dspereira/42Cursus-Cube3D/blob/main/en.subject.pdf) | 125% |
 | [Webserv](https://github.com/dspereira/42Cursus-webserv) | C++, HTTP, CGI, Web | subject | 110% |
 | [Inception](https://github.com/dspereira/42Cursus-Inception) | System Administration, Docker Compose, Nginx, Wordpress, MariaDB | [subject](https://github.com/dspereira/42Cursus-Inception/blob/main/docs/inception_subject.pdf) | 100% | 
-| ft_transcendence | Web Development, HTML, CSS, JavaScript, Python, SQL | subject | In Progress |
+| [ft_transcendence](https://github.com/dspereira/42Cursus-transcendence) | Web Development, HTML, CSS, JavaScript, Python, SQL, Docker | [subject](https://github.com/dspereira/42Cursus-transcendence/blob/main/en.subject.pdf) | 110% |
 
 ## Contact
 
