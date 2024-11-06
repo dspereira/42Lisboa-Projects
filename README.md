@@ -59,7 +59,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [ft_printf](https://github.com/dspereira/42Cursus-Printf) | C, Algorithms, Variadic Functions | [subject](https://github.com/dspereira/42Cursus-Printf/blob/main/en.subject.pdf) | 100% |
 | [get_next_line](https://github.com/dspereira/42Cursus-GetNextLine) | C, Algorithms, Files | [subject](https://github.com/dspereira/42Cursus-GetNextLine/blob/main/en.subject.pdf) | 125% |
 | [Born2beroot](https://github.com/dspereira/42Cursus-Born2beRoot) | System Administration | [subject](https://github.com/dspereira/42Cursus-Born2beRoot/blob/main/en.subject.pdf) | 100% |
-| [push_swap](https://github.com/dspereira/42Cursus-Push-Swap) | C, Data Structures and Algorithms | subject | 125% |
+| [push_swap](https://github.com/dspereira/42Cursus-Push-Swap) | C, Data Structures and Algorithms | [subject](https://github.com/dspereira/42Cursus-Push-Swap/blob/main/en.subject.pdf) | 125% |
 | [pipex](https://github.com/dspereira/42Cursus-Pipex) | C, Shell, UNIX Operating Systems | [subject](https://github.com/dspereira/42Cursus-Pipex/blob/main/en.subject.pdf) | 115% |
 | [so_long](https://github.com/dspereira/42Cursus-SoLong) | C, 2D Graphics, Games | [subject](https://github.com/dspereira/42Cursus-SoLong/blob/main/en.subject.pdf) | 125% |
 | [Philosophers](https://github.com/dspereira/42Cursus-Philosophers) | C, Threads and Mutexes | [subject](https://github.com/dspereira/42Cursus-Philosophers/blob/main/en.subject.pdf) | 100% |
@@ -67,7 +67,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [CPP_Modules](https://github.com/dspereira/42Cursus-cpp-modules) | C++, Object-oriented programming | [subject](https://github.com/dspereira/42Cursus-cpp-modules/blob/main/module_00/en.subject.pdf) | 100% |
 | NetPractice | IP routing, System Administration | [subject](https://github.com/dspereira/42Lisboa-Projects/blob/main/netpractice-subject.pdf) | 100% |
 | [cub3d](https://github.com/dspereira/42Cursus-Cub3D) | C, Ray Casting, 3D Graphics, Texturing, Games | [subject](https://github.com/dspereira/42Cursus-Cube3D/blob/main/en.subject.pdf) | 125% |
-| [Webserv](https://github.com/dspereira/42Cursus-webserv) | C++, HTTP, CGI, Web | subject | 110% |
+| [Webserv](https://github.com/dspereira/42Cursus-webserv) | C++, HTTP, CGI, Web | [subject](https://github.com/dspereira/42Cursus-webserv/blob/main/en.subject.pdf) | 110% |
 | [Inception](https://github.com/dspereira/42Cursus-Inception) | System Administration, Docker Compose, Nginx, Wordpress, MariaDB | [subject](https://github.com/dspereira/42Cursus-Inception/blob/main/docs/inception_subject.pdf) | 100% | 
 | [ft_transcendence](https://github.com/dspereira/42Cursus-transcendence) | Web Development, HTML, CSS, JavaScript, Python, SQL, Docker | [subject](https://github.com/dspereira/42Cursus-transcendence/blob/main/en.subject.pdf) | 110% |
 
