@@ -8,6 +8,8 @@
     * [The Core](#the-core)
     * [The Specialization](#the-specialization)
 * [ Projects ](#projects)
+  * [Holy Graph](#holy-graph)
+  * [Project Table](#project-table)
 * [ Contact ](#contact)
 
 ## About Me
@@ -49,8 +51,7 @@ The Core covers the fundamentals of programming and computer systems while in th
 
 ## Projects
 
-### Holly Graph
-
+### Holy Graph
 The holy graph is a graphical representation that displays both completed and available projects, making it easier to visualize and select projects.
 
 ![holly_graph](https://github.com/dspereira/42Lisboa-Projects/blob/main/holly_graph.png)
