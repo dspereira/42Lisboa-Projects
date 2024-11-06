@@ -38,8 +38,10 @@ The Core covers the fundamentals of programming and computer systems while in th
 
 ## About Me
 
-I'm an electrical engineer with a passion for software development and technology in general. I'm currently a student at 42 Lisboa, deepening my knowledge in computer engineering.
-I have a keen interest in pursuing a career in web development, specifically working with Javascript and node.js. Therefore, I am currently focused on enhancing my skills and knowledge in this particular field.
+I'm an electrical engineer with a passion for software development and technology. Currently, I'm a student at 42 Lisboa, where I'm deepening my knowledge in computer engineering.
+I'm especially interested in building a career in web development, focusing on JavaScript. To this end, I'm dedicated to enhancing my skills and expertise in this field.
+
+My technical skills include proficiency in C/C++, JavaScript, and SQL, which I’ve developed through my projects at 42 Lisboa and previous experience. Additionally, I have working knowledge of other tools and technologies, such as Python, Java, and Docker, although at a less advanced level.
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/dsilveri?1337Badge=off&UM6P=off" alt="dsilveri's 42 stats" /></a>
 
